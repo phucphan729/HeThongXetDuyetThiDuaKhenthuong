@@ -1,2 +1,4 @@
-.env 
-.env 
+OPENAI_API_KEY=
+# MONGO_URI=mongodb+srv://grace:25112003@cluster0.nepogtj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+MONGO_URI=mongodb+srv://vuthu278:anhthuk1721@cluster0.pw4wj7q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+# MONGO_URI=mongodb+srv://vuthu278:anhthuk1721@cluster0.pw4wj7q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
