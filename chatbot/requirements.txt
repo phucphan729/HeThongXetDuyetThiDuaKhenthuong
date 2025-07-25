@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymongo
+chromadb
+python-dotenv
+tqdm
+PyPDF2
+wikipedia
